@@ -28,5 +28,6 @@ class DatabaseSeeder extends Seeder
 //            Semester::create(['name' => 'Semester ' . $i, 'program_id' => 2]);
 //        }
 
+        
     }
 }
